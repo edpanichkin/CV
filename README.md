@@ -13,11 +13,11 @@ Java Developer
 Желательное время в пути до работы: не имеет значения
 
 ### Ключевые навыки
-- Java: Java Core, Spring, Spring Boot, Lombok, Maven, Log4j, JUnit   
-- Database: JDBC, JPA, SQL, PostgreSQL, Hibernate, NoSQL: MongoDB, Redis.  
-- Web: HTML, CSS, JS, Thymeleaf, JSoup 
-- CVS: Git CLI, Gitlab, Github. 
-- Pattern: MVC, REST, CRUD.  
+- Java: Java Core, JDBC, Lombok, Maven, Log4j, JUnit   
+- Database: , MySQL, PostgreSQL, Hibernate, NoSQL: MongoDB, Redis.  
+- Web: базовые знания HTML, CSS, JS, JSoup 
+- CVS: Git (Gitlab, Github). 
+- Framework: Spring (Spring MVC, Spring JPA...), Thymeleaf
 
 ### Обучение:
 
