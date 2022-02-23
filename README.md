@@ -18,6 +18,7 @@ Java Developer
 - Web: базовые знания HTML, CSS, JS, JSoup, Thymeleaf 
 - CVS: Git (Gitlab, Github). 
 - Framework: Spring .., Hibernate
+- Containers: Docker / Docker Compose
 
 ### Обучение:
 
@@ -31,6 +32,7 @@ Java Developer
 https://kovalevskyi.academy/edpanichkin/
 
 #### JavaOP - Java-разработчик веб-приложений
+ - https://ed-resumes.herokuapp.com/
 
 #### Также:
 - Курсы на Udemy
