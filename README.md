@@ -13,17 +13,17 @@ Java Developer
 Желательное время в пути до работы: не имеет значения
 
 ### Ключевые навыки
-- Java: Java Core, JDBC, Lombok, Maven, Log4j, JUnit   
-- Database: , MySQL, PostgreSQL, Hibernate, NoSQL: MongoDB, Redis.  
-- Web: базовые знания HTML, CSS, JS, JSoup 
+- Java: Java Core, JDBC, Lombok, Maven, Log4j, JUnit, Tomcat   
+- Database: SQL: MySQL, PostgreSQL; NoSQL: MongoDB, Redis.  
+- Web: базовые знания HTML, CSS, JS, JSoup, Thymeleaf 
 - CVS: Git (Gitlab, Github). 
-- Framework: Spring (Spring MVC, Spring JPA...), Thymeleaf
+- Framework: Spring .., Hibernate
 
 ### Обучение:
 
 #### SkillBox - Курс «Java-разработчик с нуля»
 
-Дипломный проект: "Реализация блогового движка" / в разработке
+Дипломный проект: "Реализация поискового движка" / в разработке
 
 #### Академия Ковалевского:
 - Интенсив JavaBootCamp
