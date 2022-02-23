@@ -17,7 +17,7 @@ Java Developer
 - Database: SQL: MySQL, PostgreSQL; NoSQL: MongoDB, Redis.  
 - Web: базовые знания HTML, CSS, JS, JSoup, Thymeleaf 
 - CVS: Git (Gitlab, Github). 
-- Framework: Spring Boot (MVC / REST / JPA), Hibernate
+- Framework: Spring (Boot / MVC / REST / JPA), Hibernate
 - Containers: Docker / Docker Compose
 
 ### Обучение:
