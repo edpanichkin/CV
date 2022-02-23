@@ -17,7 +17,7 @@ Java Developer
 - Database: SQL: MySQL, PostgreSQL; NoSQL: MongoDB, Redis.  
 - Web: базовые знания HTML, CSS, JS, JSoup, Thymeleaf 
 - CVS: Git (Gitlab, Github). 
-- Framework: Spring .., Hibernate
+- Framework: Spring Boot (MVC / REST / JPA), Hibernate
 - Containers: Docker / Docker Compose
 
 ### Обучение:
@@ -43,7 +43,7 @@ https://kovalevskyi.academy/edpanichkin/
 ### Дополнительная информация
 Образование высшее, Информатика и ВТ, бакалавр.
 
-Английский на уровне А1-А2.
+Английский на уровне А1-А2, (читаю документацию)
 
 Опыт работы в складской логисте на руководящей позиции более 10 лет (знание предметной области), НО:
 
